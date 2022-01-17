@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibrahim-jeem
-- 👀 I’m interested in Python, Data Science
+- 👀 I’m interested in Python, Machine learning, Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning, Data Structure
 - 📫 How to reach me ibrahim_jeem@rocketmail.com,  
